@@ -1,0 +1,4 @@
+FROM OS
+
+Test
+RUN CMD
