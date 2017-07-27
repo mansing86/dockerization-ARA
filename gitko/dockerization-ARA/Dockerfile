@@ -1,0 +1,3 @@
+FROM ok
+
+RUN CMD
